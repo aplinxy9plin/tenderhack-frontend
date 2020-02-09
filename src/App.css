@@ -1,0 +1,15 @@
+.quick-button{
+  white-space: normal;
+  width: 80%;
+  margin-bottom: 5px;
+  border-color: #264b82;
+}
+.rcw-conversation-container .rcw-header{
+  background-color: #264b82;
+}
+.rcw-conversation-container .rcw-close-button{
+  background-color: #264b82;
+}
+.rcw-launcher{
+  background-color: #264b82;
+}
